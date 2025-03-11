@@ -21,7 +21,7 @@
 title: Somerville Fermentation Festival
 email: somfermfest@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Sunday September 7th 2025 | 11am-4pm
+  Sunday, September 7th, 2025 | 11am-4pm
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://somfermfest.com/" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
