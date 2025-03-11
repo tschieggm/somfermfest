@@ -21,10 +21,10 @@
 title: Somerville Fermentation Festival
 email: sfspivak@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-Somerville Fermentation Festival 
-Sunday, September 7th 2025, 11am - 4pm
-The Center for the Arts at the Armory
-Somerville MA
+  Somerville Fermentation Festival 
+  Sunday, September 7th 2025, 11am - 4pm
+  The Center for the Arts at the Armory
+  Somerville MA
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://tschieggm.github.io/somfermfest/" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
